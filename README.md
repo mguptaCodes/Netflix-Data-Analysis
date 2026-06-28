@@ -7,11 +7,11 @@ This project focuses on analyzing Netflix movies and TV shows dataset to extract
 
 ## Objectives
 
--> Analyze Netflix content distribution
--> Identify popular genres and trends
--> Study release patterns over the years
--> Compare ratings, popularity, and vote counts
--> Build an interactive Power BI dashboard for visualization
+- Analyze Netflix content distribution
+- Identify popular genres and trends
+- Study release patterns over the years
+- Compare ratings, popularity, and vote counts
+- Build an interactive Power BI dashboard for visualization
 
 
 ## Tools & Technologies Used
