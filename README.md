@@ -38,14 +38,14 @@ This project uses the following datasets:
 
 ## Project Structure
 
-Netflix-Data-Analysis
-
-notebooks/           # Jupyter notebooks for analysis
-data/                # Raw and cleaned datasets
-powerbi/             # Power BI dashboard file (.pbix)
-screenshots/         # Visual outputs and charts
-requirements.txt     # Project dependencies
-README.md
+Netflix-Data-Analysis/
+│
+├── notebooks/        # Jupyter notebooks for analysis
+├── data/             # Raw and cleaned datasets
+├── powerbi/          # Power BI dashboard file (.pbix)
+├── screenshots/      # Visual outputs and charts
+├── requirements.txt  # Project dependencies
+└── README.md
 
 
 ## Key Insights
