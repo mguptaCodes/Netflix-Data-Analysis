@@ -1,10 +1,12 @@
 # Netflix Data Analysis Project
 
 ## Project Overview
+
 This project focuses on analyzing Netflix movies and TV shows dataset to extract meaningful insights such as content trends, ratings, genres, and release patterns. The goal is to understand how Netflix content is distributed and how viewer preferences vary.
 
 
 ## Objectives
+
 -> Analyze Netflix content distribution
 -> Identify popular genres and trends
 -> Study release patterns over the years
@@ -13,6 +15,7 @@ This project focuses on analyzing Netflix movies and TV shows dataset to extract
 
 
 ## Tools & Technologies Used
+
 - Python
 - Pandas
 - NumPy
@@ -23,6 +26,7 @@ This project focuses on analyzing Netflix movies and TV shows dataset to extract
 
 
 ## Dataset
+
 This project uses the following datasets:
 
 - **Original Dataset:** `mymoviedb.csv`  
@@ -33,6 +37,7 @@ This project uses the following datasets:
 
 
 ## Project Structure
+
 Netflix-Data-Analysis
 
 notebooks/           # Jupyter notebooks for analysis
@@ -44,6 +49,7 @@ README.md
 
 
 ## Key Insights
+
 - Drama and Action genres dominate Netflix content distribution.
 - Movies released after 2015 show a significant increase in production volume.
 - High vote count does not always mean high rating — popularity and rating show weak correlation.
@@ -52,6 +58,7 @@ README.md
 
 
 ## How to Run This Project
+
 1. Clone the repository  
 git clone https://github.com/mguptaCodes/Netflix-Data-Analysis.git
 
@@ -84,6 +91,7 @@ jupyter notebook
 
 11. (Optional) Open Power BI dashboard  
 Go to the "powerbi/" folder and open the .pbix file using Power BI Desktop
+
 
 
 Author
