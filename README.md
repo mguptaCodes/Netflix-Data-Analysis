@@ -60,41 +60,61 @@ Netflix-Data-Analysis/
 
 ## How to Run This Project
 
-# 1. Clone the repository
+### 1. Clone the repository
+```bash
 git clone https://github.com/mguptaCodes/Zomato-Data-Analysis.git
+```
 
-# 2. Navigate to the project folder
+### 2. Navigate to the project folder
+```bash
 cd Zomato-Data-Analysis
+```
 
-# 3. Check Python version (recommended)
+### 3. Check Python version (recommended)
+```bash
 python --version
+```
 
-# 4. Create a virtual environment (optional but recommended)
+### 4. Create a virtual environment (optional but recommended)
+```bash
 python -m venv env
+```
 
-# 5. Activate the virtual environment
+### 5. Activate the virtual environment
 
-# Windows:
+- Windows:
+```bash
 env\Scripts\activate
+```
 
-# Mac/Linux:
+- Mac/Linux:
+```bash
 source env/bin/activate
+```
 
-# 6. Install required dependencies
+### 6. Install required dependencies
+```bash
 pip install -r requirements.txt
+```
 
-# 7. Install Jupyter Notebook (if not installed)
+### 7. Install Jupyter Notebook (if not installed)
+```bash
 pip install jupyter
+```
 
-# 8. Launch Jupyter Notebook
+### 8. Open Jupyter Notebook
+```bash
 jupyter notebook
+```
 
-# 9. Run the notebook
-Open: Zomato.ipynb and run cells step by step
+### 9. Run the notebook
+Open: **Zomato.ipynb** and run cells step by step
 
-# 10. Open Power BI Dashboard (optional)
+### 10. Open Power BI Dashboard (optional)
 Open the file:
+```bash
 Zomato_Dasboard.pbix
+```
 using Microsoft Power BI Desktop
 
 
