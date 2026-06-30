@@ -7,22 +7,22 @@ This project focuses on analyzing Netflix movies and TV shows dataset to extract
 
 ## Objectives
 
-- Analyze Netflix content distribution
-- Identify popular genres and trends
-- Study release patterns over the years
-- Compare ratings, popularity, and vote counts
-- Build an interactive Power BI dashboard for visualization
+1. Analyze Netflix content distribution
+2. Identify popular genres and trends
+3. Study release patterns over the years
+4. Compare ratings, popularity, and vote counts
+5. Build an interactive Power BI dashboard for visualization
 
 
 ## Tools & Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
-- Jupyter Notebook
+✔ Python
+✔ Pandas
+✔ NumPy
+✔ Matplotlib
+✔ Seaborn
+✔ Power BI
+✔ Jupyter Notebook
 
 
 ## Dataset
