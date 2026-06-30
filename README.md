@@ -118,5 +118,8 @@ Zomato_Dasboard.pbix
 using Microsoft Power BI Desktop
 
 
-Author
-Manaswi Gupta
+## Author
+
+**Manaswi Gupta**
+
+Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
