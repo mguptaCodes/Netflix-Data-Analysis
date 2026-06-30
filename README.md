@@ -16,6 +16,7 @@ This project focuses on analyzing Netflix movies and TV shows dataset to extract
 
 ## Tools & Technologies Used
 
+```text
 ➜ Python
 ➜ Pandas
 ➜ NumPy
@@ -23,6 +24,7 @@ This project focuses on analyzing Netflix movies and TV shows dataset to extract
 ➜ Seaborn
 ➜ Power BI
 ➜ Jupyter Notebook
+```
 
 
 ## Dataset
