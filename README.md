@@ -36,13 +36,17 @@ This project uses the following datasets:
   Contains cleaned and processed data used for analysis and visualization.
 
 
-## Netflix-Data-Analysis/
+## Project Structure
+
+```text
+Netflix-Data-Analysis/
  ├── notebooks/          # Jupyter notebooks for analysis
  ├── data/               # Raw and cleaned datasets
  ├── powerbi/            # Power BI dashboard file (.pbix)
  ├── screenshots/        # Visual outputs and charts
  ├── requirements.txt    # Project dependencies
  └── README.md           # Project documentation
+```
 
 
 ## Key Insights
@@ -56,39 +60,42 @@ This project uses the following datasets:
 
 ## How to Run This Project
 
-1. Clone the repository  
-git clone https://github.com/mguptaCodes/Netflix-Data-Analysis.git
+# 1. Clone the repository
+git clone https://github.com/mguptaCodes/Zomato-Data-Analysis.git
 
-2. Navigate to the project folder  
-cd Netflix-Data-Analysis
+# 2. Navigate to the project folder
+cd Zomato-Data-Analysis
 
-3. Check Python version (recommended)
+# 3. Check Python version (recommended)
 python --version
 
-4. Create a virtual environment (optional but recommended)  
+# 4. Create a virtual environment (optional but recommended)
 python -m venv env
 
-5. Activate the virtual environment  
-- Windows:
-env\Scripts\activate  
+# 5. Activate the virtual environment
 
-- Mac/Linux:
-source env/bin/activate  
+# Windows:
+env\Scripts\activate
 
-7. Install required dependencies  
+# Mac/Linux:
+source env/bin/activate
+
+# 6. Install required dependencies
 pip install -r requirements.txt
 
-8. Install Jupyter Notebook (if not installed)
+# 7. Install Jupyter Notebook (if not installed)
 pip install jupyter
 
-9. Open Jupyter Notebook  
+# 8. Launch Jupyter Notebook
 jupyter notebook
 
-10. Run the notebooks step by step inside the "notebooks/" folder
+# 9. Run the notebook
+Open: Zomato.ipynb and run cells step by step
 
-11. (Optional) Open Power BI dashboard  
-Go to the "powerbi/" folder and open the .pbix file using Power BI Desktop
-
+# 10. Open Power BI Dashboard (optional)
+Open the file:
+Zomato_Dasboard.pbix
+using Microsoft Power BI Desktop
 
 
 Author
